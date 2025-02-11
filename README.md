@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/life-Nd](https://github.com/life-Nd)
 
-- 💬 Ask me about **Flutter, Python, Vue, Web-Dev, Micro-Controllers (Arduino, Esp32...)**
+- 💬 Ask me about **NextJS, Python, Flutter, Vue, NLP, AI Integrations, Micro-Controllers (Arduino, Esp32...)**
 
-- 📫 How to reach me **ralph_nduwi@hotmail.com**
+- 📫 How to reach me **ralphnduwi7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
